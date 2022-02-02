@@ -16,7 +16,7 @@ console.log(titre.innerHTML);
 let txt = "Chain App Dev is an app landing page HTML5 template based on Bootstrap v5.1.3 CSS layout provided by TemplateMo, a great website to download free CSS templates.";
 
 // pas bonne pratique
-let txt_p = "<p>" + txt + "</p>";
+// let txt_p = "<p>" + txt + "</p>";
 // console.log(titre.parentNode);
 // titre.parentNode.append(txt_p);
 
@@ -30,3 +30,4 @@ let p = document.createElement("p");
 p.innerHTML = txt;
 // ajout au DOM
 titre.parentNode.append(p);
+console.log(p);
