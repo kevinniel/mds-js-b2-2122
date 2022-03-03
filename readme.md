@@ -25,4 +25,4 @@ Leo & césar => vuejs => projet gestion recherche d'mploi :D
     - nombre de mots dans le tableau
     - nombre de lettres dans le tableau
     - nombre de moyen de paramètres
-    - type de retour le plus commun
+    - nombre de différents types de retour
